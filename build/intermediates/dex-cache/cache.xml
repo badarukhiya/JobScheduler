@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="bb0ac3f3ee2d71854501cc28e52cc84a20209b41">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\classes-7528337733ee94438cab73261bc370b8a5243433.jar" />
+    </item>
+    <item
+        jar="C:\Users\om\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-849899d15d80d98ca3ee8b94e7a068b234a21a11.jar" />
+    </item>
+    <item
+        jar="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ccbc26be2c465c622a48310e8092241b01abe80">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\classes-e48f4ecc8b6092376290157fd66273c585e21544.jar" />
+    </item>
+    <item
+        jar="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\exploded-aar\com.android.support\support-v13\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5d4bccb885c8a89d066ecb6c4addb553a99a79a2">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-7dbc4457d94d28cea95971c15246df9a5e004748.jar" />
+    </item>
+    <item
+        jar="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-323b6bd7fae0b014696472e37ac0ab93089beffe.jar" />
+    </item>
+    <item
+        jar="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\om\Desktop\JobScheduler\Application\build\intermediates\pre-dexed\debug\classes-240599c47b6c6572094e54d98534479d8e9871f2.jar" />
+    </item>
+
+</items>
